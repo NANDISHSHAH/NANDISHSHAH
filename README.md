@@ -1,8 +1,6 @@
 ### Hello I am Nandish Shah 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on machine learning and AI based application
 - 🌱 I’m currently learning computer vision and azure
 - 👯 I’m looking to collaborate on machine learning and ai based open source projects.
